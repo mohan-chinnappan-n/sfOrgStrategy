@@ -14,6 +14,19 @@ Companies with Independent businesses **but similar businesses** can consider us
   example: Johnson Johnson, GE
  <hr/>
  
+ #### Global CoE ( Center of excellence )
  
+ 
+ CoE will help to design global architecture and data objects, which can be shared across units of the company.
+ 
+ CoE will help to justify the need for new/additional org.
+ 
+ 
+####  More line of businesses in single organization  brings more complex model
+
+- Security model can become complex
+- Data governance is must to have
+- Enterprise data architects involvement
+
 ### Resources
 [ Single versus multiple ]()
